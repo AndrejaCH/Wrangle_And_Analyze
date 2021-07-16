@@ -6,11 +6,13 @@ Real-word data rarely comes clean, especially if data comes from a variety of so
 
 ## Data Wrangling
 
-A comprehensive report about data wrangling and its steps is saved in a pdf file and can be found on the following link: [Data Wrangling - Report](wrangle_report.pdf)
+A comprehensive report about data wrangling and its steps is saved in a pdf file and can be found on the following link:<br>
+***[Data Wrangling - Report](wrangle_report.pdf)***
 
 ## Communicating Findings
 
-Finding and visualizations that were created from cleaned datasets are saved in pdf file. The file can be found on the following link [Findings and Visualizations - Report](act_report.pdf)
+Finding and visualizations that were created from cleaned datasets are saved in pdf file.<br>
+The file can be found on the following link ***[Findings and Visualizations - Report](act_report.pdf)***
 
 ***For this project I am using the following:***
 
